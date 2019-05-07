@@ -1,0 +1,118 @@
+body {
+	background: tan;
+	margin: 0px;
+	padding: 10px;
+}
+
+#left-c {
+	float: left;
+	width: 50%;
+}
+
+#right-c {
+	float: left;
+	width: 50%;
+}
+
+.life-tv {
+	background: lightblue;
+	color: darkblue;
+	font-family: 'merriweather';
+	font-size: 34px;
+	font-weight: normal;
+	height: 180px;
+	line-height: 60px;
+	margin: 0px 0px 0px 0px;
+	padding: 40px 30px 25px 30px;
+	text-align: center;
+}
+
+
+
+.love-passion {
+	background: lightgray;
+	color: white;
+	font-family: 'ZCOOL XiaoWei';
+	font-size: 40px;
+	height: 172px;
+	margin: 0px 0px 0px 0px;
+	padding: 50px 20px 35px 20px;
+	text-align: center;
+}
+
+
+
+.appreciate-travel {
+	background: darkblue;
+	color: tan;
+	font-family: papyrus;
+	font-size: 36px;
+	font-weight: bold;
+	height: 172px;
+	margin: 0px 0px 0px 0px;
+	padding: 35px 25px 25px 25px;
+	text-align: center;
+}
+
+
+#travel-q {
+	font-size: 44px;
+}
+
+
+
+
+
+.united-opportunities {
+	background: white;
+	color: lightblue;
+	font-family: 'ZCOOL XiaoWei';
+	font-size: 42px;
+	font-weight: lighter;
+	height: 175px;
+	margin: 0px 0px 0px 0px;
+	padding: 45px 25px 25px 25px;
+	text-align: center;
+}
+
+
+
+#united {
+	margin-bottom: 11px;
+	padding-top: 50px;
+	padding-bottom: 54px;
+}
+
+
+
+
+#opportunities {
+	font-size: 56px;
+	padding-top: 50px;
+	padding-bottom: 33px;
+}
+
+
+
+
+.create-dream {
+	background: lightblue;
+	color: darkblue;
+	font-family: 'merriweather';
+	font-size: 36px;
+	font-weight: normal;
+	height: 173px;
+	margin: 0px 0px 0px 0px;
+	padding: 65px 30px 20px 30px;
+	text-align: center;
+}
+
+
+
+#favorite-q {
+	font-size: 36px;
+	font-variant: small-caps;
+	line-height: 50px;
+	margin-bottom: 15px;
+	padding: 40px 40px 40px 40px;
+	}

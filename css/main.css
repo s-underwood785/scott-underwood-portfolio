@@ -1,0 +1,370 @@
+/***** BASE STYLES *****/
+
+
+body {
+	font-family: 'Roboto', sans-serif;
+	color: #6C9685;
+}
+
+
+
+
+/***** GRID *****/
+
+
+
+
+.full-width {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+
+
+.half-width {
+	float: left;
+	width: 590px;
+}
+
+
+
+
+.third-width {
+	float: left;
+	width: 350px;
+}
+
+
+
+
+/***** HEADER *****/
+
+
+
+
+header {
+	height: 870px;
+	background: url('../img/sky-image.jpg');
+	background-size: cover;
+  margin: 0 auto;
+}
+
+
+
+
+header h1 {
+  clear: both;
+	color: #b57612;
+	font-family: 'Roboto Slab', serif;
+	font-size: 60px;
+	padding: 60px 0px 20px 0px;
+  text-align: center;
+}
+
+
+
+
+header h3 {
+  clear: both;
+  color: #C9D0DB;
+  font-size: 42px;
+  font-weight: normal;
+  text-align: center;
+}
+
+
+
+
+nav {
+	float: right;
+	padding: 35px 30px 75px 25px;
+}
+
+
+
+
+nav ul li {
+	display: inline-block;
+}
+
+
+
+
+nav ul li a {
+	color: #6C9685;
+	font-size: 18px;
+  padding-left: 40px;
+  text-decoration: none;
+	text-transform: uppercase;
+}
+
+
+
+
+
+/***** WORK *****/
+
+
+
+
+
+#work {
+  background: #ffffff;
+  color: #6C9685;
+  height: 1530px;
+  margin: 0 auto;
+  border: 1px solid #ffffff;
+}
+
+
+
+
+#work .full-width {
+  clear: both;
+  padding: 50px 30px;
+  text-align: justify;
+}
+
+
+
+
+
+#work h2 {
+  color: #799F90;
+  font-family: 'Roboto Slab', serif;
+  font-size: 48px;
+  padding: 30px 0 10px 0;
+  text-align: center;
+}
+
+
+
+
+#work a {
+	color: #799F90;
+	text-decoration: none;
+}
+
+
+
+
+#work h3 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 28px;
+}
+
+
+
+
+#work h4 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px;
+}
+
+
+
+
+
+#work p {
+	font-size: 20px;
+  line-height: 25px;
+}
+
+
+
+
+
+/***** ABOUT *****/
+
+
+
+
+
+#about {
+  background: #C9D0DB;
+  border: 1px solid #AABFBC;
+  color: #304C4C;
+  height: 690px;
+}
+
+
+
+
+#about h2 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 48px;
+  padding: 30px 0 50px 0;
+  text-align: center;
+}
+
+
+
+
+
+#about h3 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 28px;
+  text-align: justify;
+}
+
+
+
+
+#about p {
+  font-size: 20px;
+  line-height: 25px;
+}
+
+
+
+
+
+#about .third-width {
+  padding: 5px 20px 5px 20px;
+}
+
+
+
+
+#passionate {
+  border-left: 1px solid #ffffff;
+  border-right: 1px solid #ffffff;
+}
+
+
+
+
+#skills h3 {
+  padding-left: 20px;
+  text-align: left;
+}
+
+
+
+#about ul {
+  display: inline-block;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+
+
+
+
+/***** CONTACT *****/
+
+
+
+
+#contact {
+  background: #304C4C;
+  border: 1px solid #304C4C;
+  color: #C9D0DB;
+  height: 450px;
+}
+
+
+
+
+
+#contact h2 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 48px;
+  padding: 30px 0 30px 0;
+  text-align: center;
+}
+
+
+
+
+#contact .third-width {
+  width: 395px;
+  text-align: center;
+}
+
+
+
+
+#contact h3 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 28px;
+}
+
+
+
+
+
+#contact a {
+  color: #C9D0DB;
+  font-size: 22px;
+  padding-top: 30px;
+  text-decoration: none;
+}
+
+
+
+
+
+#contact #envelope {
+  padding: 20px 10px 0px 0px;
+}
+
+
+
+
+#contact ul {
+	list-style: none;
+  padding: 20px 0 20px 0;
+  word-spacing: 40px;
+}
+
+
+
+
+#contact ul li {
+	display: inline-block;
+  text-align: center;
+}
+
+
+
+
+
+#contact p {
+  font-size: 22px;
+  line-height: 32px;
+  padding-top: 15px;
+}
+
+
+
+
+#contact span {
+  color:  #b57612;
+  font-weight: bold;
+}
+
+
+
+
+/***** FOOTER *****/
+
+
+
+
+
+footer {
+  background:#304C4C;
+  border: 1px solid #304C4C;
+  color:#C9D0DB;
+  padding: 50px 0 5px 0;
+  text-align: center;
+}
+
+
+
+
+footer span {
+  color: #b57612;
+  font-size: 24px;
+}

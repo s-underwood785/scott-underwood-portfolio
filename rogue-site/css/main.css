@@ -1,0 +1,240 @@
+/***** BASE STYLES *****/
+
+
+
+body {
+	font-family:  'Montserrat', sans-serif;
+	color: #000000;
+}
+
+
+
+
+/***** GRID *****/
+
+
+
+.full-width {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+
+.half-width {
+	float: left;
+	width: 50%;
+}
+
+
+.third-width {
+	float: left;
+	width: 30%;
+}
+
+
+
+
+
+
+
+/***** HEADER *****/
+
+
+
+
+header {
+	height: 110px;
+}
+
+
+header h1 {
+	font-size: 30px;
+	line-height: 23px;
+	padding: 22px 0px;
+	text-transform: uppercase;
+}
+
+
+
+
+header h1 span {
+	color: #77a466;
+}
+
+
+
+
+nav {
+	color: #77a466;
+	float: right;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 23px;
+	padding: 27px 0px;
+	text-transform: uppercase;
+	word-spacing: 16px;
+}
+
+
+
+nav ul li a{
+	color: #77a466;
+	text-decoration: none;
+}
+
+
+nav ul li {
+	display: inline-block;
+}
+
+
+
+
+/***** TOP sECTION *****/
+
+
+
+
+
+
+#top-section img {
+	border-top: 3px solid #77a466;
+	border-bottom: 3px solid #77a466;
+}
+
+
+
+
+#top-section h2 {
+	color: #77a466;
+	font-size: 18px;
+	line-height: 23px;
+	padding: 8px 0px 5px 0px;
+	text-transform: uppercase;
+}
+
+
+
+
+#top-section p {
+	font-size: 16.5px;
+	line-height: 25px;
+	padding: 0 0 30px 0;
+	margin: 0 0 20px 0;
+
+}
+
+
+
+
+/***** BOTTOM SECTION *****/
+
+
+
+
+#bottom-section .full-width {
+	border-top: .5px solid #d9d9d9;
+	border-bottom: .5px solid #d9d9d9;
+	height: 240px;
+
+}
+
+
+
+
+#bottom-section .third-width {
+	padding-top: 10px;
+	height: 230px;
+	margin: auto;
+}
+
+
+
+
+#bottom-section h3 {
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 23px;
+	text-transform: uppercase;
+}
+
+
+
+
+
+
+#specials p{
+	color: #77a466;
+	font-size: 16px;
+	line-height: 38px;
+
+}
+
+
+
+
+#reviews {
+	border-right: .5px solid #d9d9d9;
+	border-left: .5px solid #d9d9d9;
+	padding: 0 30px;
+}
+
+
+
+
+#reviews p {
+	font-size: 16px;
+	line-height: 21px;
+
+}
+
+
+
+
+
+#contact {
+	padding-left: 30px;
+}
+
+
+
+
+#contact p {
+	font-size: 16px;
+	line-height: 27px;
+}
+
+
+
+
+
+/***** FOOTER *****/
+
+
+
+
+
+footer {
+	clear: both;
+	padding: 28px 57px 15px 0;
+}
+
+
+
+
+footer h4 {
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 23px;
+	text-align: center;
+	text-transform: uppercase;
+	word-spacing: 5px;
+}
+
+footer h4 span {
+	color: #77a466;
+	font-family: 'Petit Formal Script', cursive;
+	font-size: 16px;
+	text-transform: lowercase;
+
+}
